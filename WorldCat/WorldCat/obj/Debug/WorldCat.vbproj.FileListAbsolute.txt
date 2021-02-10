@@ -1,0 +1,12 @@
+C:\Users\utente\source\repos\WorldCat\WorldCat\bin\Debug\WorldCat.exe.config
+C:\Users\utente\source\repos\WorldCat\WorldCat\bin\Debug\WorldCat.exe
+C:\Users\utente\source\repos\WorldCat\WorldCat\bin\Debug\WorldCat.pdb
+C:\Users\utente\source\repos\WorldCat\WorldCat\bin\Debug\WorldCat.xml
+C:\Users\utente\source\repos\WorldCat\WorldCat\obj\Debug\WorldCat.vbprojAssemblyReference.cache
+C:\Users\utente\source\repos\WorldCat\WorldCat\obj\Debug\WorldCat.Form1.resources
+C:\Users\utente\source\repos\WorldCat\WorldCat\obj\Debug\WorldCat.Resources.resources
+C:\Users\utente\source\repos\WorldCat\WorldCat\obj\Debug\WorldCat.vbproj.GenerateResource.cache
+C:\Users\utente\source\repos\WorldCat\WorldCat\obj\Debug\WorldCat.vbproj.CoreCompileInputs.cache
+C:\Users\utente\source\repos\WorldCat\WorldCat\obj\Debug\WorldCat.exe
+C:\Users\utente\source\repos\WorldCat\WorldCat\obj\Debug\WorldCat.xml
+C:\Users\utente\source\repos\WorldCat\WorldCat\obj\Debug\WorldCat.pdb
